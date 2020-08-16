@@ -1,4 +1,4 @@
-$.getJSON('data/burger.json', function (data) {
+$.getJSON('data/menu.json', function (data) {
     let menu = data.menu;
     // looping objek
     $.each(menu, function (index, data) {
