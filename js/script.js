@@ -9,4 +9,7 @@ $.getJSON('data/menu.json', function (data) {
 $('.nav-link').on('click', function () {
     $('.nav-link').removeClass('active');
     $(this).addClass('active');
+
+    let kategori = $(this).html();
+    $('h1').html(kategori);
 });
