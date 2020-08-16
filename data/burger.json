@@ -75,6 +75,34 @@
             "deskripsi": "Roti burger, 100% daging sapi, saus tomat, acar timun, potongan bawang dan mustard.",
             "harga": 54000,
             "gambar": "beef-burger.png"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Soda Asam Jawa",
+            "deskripsi": "Minuman bersoda dingin dengan rasa asam jawa yang menyegarkan",
+            "harga": 10000,
+            "gambar": "soda-asam-jawa.png"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Sakura Fizz",
+            "deskripsi": "Minuman bersoda dengan rasa manis menyegarkan dari buah berry yang berwarna merah",
+            "harga": 12000,
+            "gambar": "sakura-fizz.png"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Fruit Tea Lemon",
+            "deskripsi": "Teh rasa buah lemon yang segar",
+            "harga": 9000,
+            "gambar": "fruit-tea.png"
+        },
+        {
+            "kategori": "Minuman",
+            "nama": "Hot Coffe",
+            "deskripsi": "Kopi 100% Arabica pilihan yang tersaji panas",
+            "harga": 14000,
+            "gambar": "hot-coffe.png"
         }
     ]
 }
