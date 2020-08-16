@@ -103,6 +103,35 @@
             "deskripsi": "Kopi 100% Arabica pilihan yang tersaji panas",
             "harga": 14000,
             "gambar": "hot-coffe.png"
+        },
+        {
+            "kategori": "Ayam",
+            "nama": "Ayam Krispy",
+            "deskripsi": "Ayam goreng , dengan kulit yang renyah dan daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7",
+            "harga": 32000,
+            "gambar": "ayam-krispy.png"
+        },
+        {
+            "kategori": "Ayam",
+            "nama": "Ayam Spicy",
+            "deskripsi": "Ayam goreng dengan bumbu pedas, rasakan sensasi pedas pada kulit yang renyah hingga daging ayam yang lembut dan gurih. Tersedia dalam pilihan A la Carte, PaNas 1, PaNas 2, Panas 2 with Fries, PaMer 5, PaMer 7",
+            "harga": 35000,
+            "gambar": "ayam-spicy.png"
+        },
+        {
+            "kategori": "Ayam",
+            "nama": "Nasi Uduk Ayam",
+            "deskripsi": "Cita rasa lokal dengan nasi berbumbu, ayam goreng, telur dan sambal terasi",
+            "harga": 40000,
+            "gambar": "nasi-uduk-ayam.png"
+        },
+        {
+            "kategori": "Ayam",
+            "nama": "Rica-rica Chicken Rice",
+            "deskripsi": "Saus rica-rica pedas di atas nasi hangat dan daging ayam pilihan.",
+            "harga": 52000,
+            "gambar": "rica-chicken.png"
         }
+
     ]
 }
